@@ -29,3 +29,5 @@ The Region table contains 230 rows and 3 columns. The columns are;
 - NOC — National Olympic Committee 
 - Region — Name of countries
 - Notes — Notes
+
+## Case Study Questions and Answers
