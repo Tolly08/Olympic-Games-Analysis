@@ -5,7 +5,7 @@ Hi there! Welcome to another Exploratory Data Analysis. In this Project, I downl
 ## Overview
 The Olympic Games are considered the world’s foremost sports competition with more than 200 nations participating. The Olympic Games are normally held every four years, and since 1994, have alternated between the Summer and Winter Olympics every two years during the four-year period.
 
-This dataset contains information about the Olympic games from 1896–2016. The dataset contains two tables; the athletes and the region tables.
+This dataset contains information about the Olympic games from 1896–2016 (120 years). The dataset contains two tables; the athletes and the region tables.
 
 The Athletes table contains 271116 rows and 15 columns. Each row corresponds to an individual athlete competing in a particular Olympic event (athlete events). The columns are:
 
